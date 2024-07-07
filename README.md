@@ -1,4 +1,4 @@
-# WebtoonPlotGenerator
+# ComicPlotGenerator
 Generates descriptions of entered story titles. Created by fine-tuning GPT2 using PyTorch and Huggingface Transformers on a dataset of Manhwa.
 
 ### Try it out on my [Huggingface space here.](https://huggingface.co/spaces/Syrinx/WebtoonPlotGenerator)
